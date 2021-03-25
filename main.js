@@ -1,0 +1,1 @@
+<button onclick="window.location.href='https://www.youtube.com/user/NocturnoPlays'">Continue</button>
